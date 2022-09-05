@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+}
+
+.test {
+  
+}
+
+.satu {
+  display: center;
+
+  
+}
+
+.jawaban {
+  text-align: center;
+}
+
+.soal {
+  text-align: center;
+  display: center;
+  
+}
+
+.inti {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.card {
+  
+  padding: 2px;
+  margin: 0px;
+}
+
+.pisah {
+  border:2px solid black;
+  bottom: 10px;
+  width: 300px;
+  text-align: center;
+  
+}
+
+.dua {
+ position: sticky;
+}
+
+.judul {
+  text-align: center;
+}
