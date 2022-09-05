@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+}
+
+.test {
+  
+}
+
+.satu {
+  display: ;
+  
+
+  
+}
+
+.jawaban {
+  text-align: center;
+}
+
+.soal {
+  text-align: center;
+  display: flex;
+  
+}
+
+.inti {
+  display: flex;
+  flex-wrap: ;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  flex-direction: ;
+  top: px;
+  
+}
+
+.card {
+  
+  padding: 0px;
+  top: 0px;
+  margin: 0px;
+  text-align: center;
+  align-items: center;
+  
+}
+
+.pisah {
+  border:2px solid black;
+  bottom: 0px;
+  width: 700px;
+  text-align: center;
+  align-items: center;
+  font-size: 30px;
+ 
+  
+  
+  
+}
+
+.dua {
+
+}
+
+.judul {
+  text-align: center;
+}
+
